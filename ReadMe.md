@@ -1,8 +1,8 @@
-##PopCat Bot
+## PopCat Bot
   
 ---
-###About
+### About
 Nothing, just keep tapping.
   
-###Note
+### Note
 "chromedriver.exe" should be download from [Here](https://chromedriver.chromium.org/downloads) and placed under same dir before using.
